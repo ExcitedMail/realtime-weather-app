@@ -11,9 +11,10 @@
     "@emotion/react": "11.9.0",
     "@emotion/styled": "11.3.0",
     "emotion-theming": "11.0.0",
+    "gh-pages": "^3.2.3",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "react-scripts": "4.0.0"
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
